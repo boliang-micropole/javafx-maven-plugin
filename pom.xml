@@ -86,6 +86,24 @@
                 <github>Jabqooo</github>
             </properties>
         </contributor>
+        <contributor>
+            <name>Luca Molari</name>
+            <properties>
+                <github>LMolr</github>
+            </properties>
+        </contributor>
+        <contributor>
+            <name>Andreas Harter</name>
+            <properties>
+                <github>aharter</github>
+            </properties>
+        </contributor>
+        <contributor>
+            <name>Gilles Grousset</name>
+            <properties>
+                <github>zippy1978</github>
+            </properties>
+        </contributor>
     </contributors>
 
     <scm>
@@ -185,7 +203,6 @@
             <version>1.7</version>
             <scope>system</scope>
             <systemPath>${java.home}/../lib/ant-javafx.jar</systemPath>
-            <!--<systemPath>c:/apps/java/jdk1.7.0_21-32bit/lib/ant-javafx.jar</systemPath>-->
         </dependency>
 
     </dependencies>
